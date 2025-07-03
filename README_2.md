@@ -15,7 +15,16 @@ A simple and elegant Task Manager built with **React**, **Vite**, **Tailwind CSS
 - ⚡ Built with Vite for fast development
 
 ---
+## 📸 Screenshots
+### Home Page
 
+![Home Screenshot](screenshots/Home.png)
+
+### Task Manager Page
+
+![Tasks Screenshot](screenshots/Tasks.png)
+
+---
 ## 🏁 Getting Started
 
 ### 1. Clone the Repository
