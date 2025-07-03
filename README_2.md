@@ -35,3 +35,6 @@ npm install
 npm run dev
 ```
 Open your browser and navigate to `http://localhost:5173` to see the Task Manager in action.
+
+### 4. Visit the Site
+`https://jocular-figolla-7be70e.netlify.app/`
